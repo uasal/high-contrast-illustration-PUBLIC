@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Douglas
+  given-names: Ewan
+orcid: https://orcid.org/0000-0002-0813-4308
+title:uasal/high-contrast-illustration-PUBLIC:  release for zenodo doi
+version: zenodo
+date-released: 2023-11-04 
+  - identifier: doi
+    value: 10.5281/zenodo.10072048 
+
+                                
